@@ -1,0 +1,1 @@
+'''Crie uma função que calcule o montante final de um investimento com base no principal, taxa de juros e tempo.'''
